@@ -1,2 +1,2 @@
-# Hello. Have a nice day.
+# Hello. 
 
